@@ -1,5 +1,5 @@
 import sys
 
 print(sys.version)
-print("hello git!")
+print("hello github!")
 
